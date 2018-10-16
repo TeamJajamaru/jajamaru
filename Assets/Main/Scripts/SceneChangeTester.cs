@@ -13,7 +13,7 @@ public class SceneChangeTester : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        if (Input.GetKeyDown(KeyCode.Z)) {
+        if (Input.anyKeyDown) {
             SceneChanger.sceneChange(target_scene);
         }
 	}

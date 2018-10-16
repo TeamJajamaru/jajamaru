@@ -1,10 +1,11 @@
 fileFormatVersion: 2
-guid: ff885b60c2db898499d2542ec51cdc0e
-timeCreated: 1539653046
+guid: cb5cb0d1bf6dc27499744ecb06ee6ed7
+timeCreated: 1539666649
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
-    21300000: DummyTitle_0
+    21300000: DummyFrog_0
+    21300002: DummyTitleFrog_0
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -121,12 +122,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: DummyTitle_0
+      name: DummyTitleFrog_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 188
         y: 0
-        width: 188
+        width: 36
         height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -134,80 +135,8 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
-    outline:
-    - - {x: -71, y: 18}
-      - {x: -71, y: -15}
-      - {x: -68, y: -18}
-      - {x: 71, y: -18}
-      - {x: 71, y: 9}
-      - {x: 68, y: 18}
-    - - {x: 79, y: -16}
-      - {x: 80, y: -18}
-      - {x: 112, y: -18}
-      - {x: 112, y: 14}
-      - {x: 111, y: 18}
-      - {x: 86, y: 18}
-      - {x: 79, y: 10}
-    - - {x: -100, y: 18}
-      - {x: -112, y: 12}
-      - {x: -112, y: -10}
-      - {x: -92, y: -10}
-      - {x: -71, y: -3}
-      - {x: -71, y: 18}
-    physicsShape:
-    - - {x: 71, y: -15}
-      - {x: 71, y: 0}
-      - {x: 69, y: 15}
-      - {x: 66, y: 18}
-      - {x: 61, y: 18}
-      - {x: 50, y: 7}
-      - {x: 50, y: 4}
-      - {x: 48, y: -8}
-      - {x: 47, y: 11}
-      - {x: 35, y: 18}
-      - {x: 22, y: 18}
-      - {x: 15, y: 14}
-      - {x: 10, y: 6}
-      - {x: 1, y: 8}
-      - {x: -2, y: 18}
-      - {x: -27, y: 18}
-      - {x: -32, y: 7}
-      - {x: -37, y: 7}
-      - {x: -44, y: 18}
-      - {x: -56, y: 18}
-      - {x: -58, y: 16}
-      - {x: -58, y: 13}
-      - {x: -53, y: 3}
-      - {x: -58, y: -5}
-      - {x: -58, y: 14}
-      - {x: -61, y: 18}
-      - {x: -69, y: 18}
-      - {x: -71, y: 15}
-      - {x: -71, y: -8}
-      - {x: -69, y: -13}
-      - {x: -65, y: -18}
-      - {x: 68, y: -18}
-    - - {x: 86, y: 18}
-      - {x: 79, y: 10}
-      - {x: 79, y: -16}
-      - {x: 80, y: -18}
-      - {x: 112, y: -18}
-      - {x: 112, y: 14}
-      - {x: 111, y: 18}
-    - - {x: -75, y: 18}
-      - {x: -93, y: 18}
-      - {x: -112, y: 11}
-      - {x: -112, y: -5}
-      - {x: -109, y: -10}
-      - {x: -92, y: -10}
-      - {x: -71, y: 1}
-      - {x: -71, y: 15}
-    - - {x: -15, y: -5}
-      - {x: -15, y: 11}
-      - {x: -16, y: 11}
-      - {x: -13, y: 4}
-      - {x: -10, y: 2}
-      - {x: -12, y: 0}
+    outline: []
+    physicsShape: []
   spritePackingTag: 
   userData: 
   assetBundleName: 
